@@ -1,6 +1,6 @@
 {
   "version": "2026.11.11",
-  "total_size": 206468,
+  "total_size": 206491,
   "file_count": 28,
   "base_url": "https://raw.githubusercontent.com/POC-INDONESIA/fota/main/",
   "files": [
@@ -181,9 +181,9 @@
     },
     {
       "path": "/usr/pocind/ui.mpy",
-      "size": 9712,
-      "sha256": "3be4e7a04651b7916c6fa8fdcf3a05693fa8b95821a801e6bc5a257ae6dc8409",
-      "integrity": "sha256-O+TnoEZRt5Fsb6j9zzoFaT+ouVghqAHmvFoleubchAk=",
+      "size": 9735,
+      "sha256": "84fcb0c1f11c960a839dfd28b71a6b6f22670a046cd88d639cfef04162785595",
+      "integrity": "sha256-hPywwfEclgqDnf0otxprbyJnCgRs2I1jnP7wQWJ4VZU=",
       "url": "latest/pocind/ui.mpy"
     },
     {
