@@ -1,0 +1,4 @@
+# Source code - JANGAN pernah push .py ke repo FOTA
+latest/pocind/*.py
+*.py
+!latest/main.py

@@ -1,0 +1,204 @@
+{
+  "version": "2026.11.11",
+  "total_size": 203411,
+  "file_count": 28,
+  "base_url": "https://raw.githubusercontent.com/POC-INDONESIA/fota/main/",
+  "files": [
+    {
+      "path": "/usr/main.py",
+      "size": 1799,
+      "sha256": "b59b642a07d52023c04c1d6e241f131fcb0a0c36978aaee793f974103e42ff32",
+      "integrity": "sha256-tZtkKgfVICPATB1uJB8TH8sKDDaXiq7nk/l0ED5C/zI=",
+      "url": "latest/main.py"
+    },
+    {
+      "path": "/usr/pocind/api.mpy",
+      "size": 2249,
+      "sha256": "93f5810f2c0487f836f7d67cf9ca1dfe000bb4ee6fbb84026b93ad2f7fc67ef8",
+      "integrity": "sha256-k/WBDywEh/g299Z8+cod/gALtO5vu4QCa5OtL3/Gfvg=",
+      "url": "latest/pocind/api.mpy"
+    },
+    {
+      "path": "/usr/pocind/apn.mpy",
+      "size": 1035,
+      "sha256": "618675ce3e71a1966c4fbffc84c49a5d9089583d2231cac11241b1b1d25ba085",
+      "integrity": "sha256-YYZ1zj5xoZZsT7/8hMSaXZCJWD0iMcrBEkGxsdJboIU=",
+      "url": "latest/pocind/apn.mpy"
+    },
+    {
+      "path": "/usr/pocind/apn_data.mpy",
+      "size": 7788,
+      "sha256": "935c9922dc5b3a8e9a1a41ad3c4bb21ac88b0ac20a1eb2e5315f66d44edddb2a",
+      "integrity": "sha256-k1yZItxbOo6aGkGtPEuyGsiLCsIKHrLlMV9m1E7d2yo=",
+      "url": "latest/pocind/apn_data.mpy"
+    },
+    {
+      "path": "/usr/pocind/audio_link.mpy",
+      "size": 4511,
+      "sha256": "87533aaccf2bd949356d7e9a65b76f6227ae2fd185e48395b792a303efc93c7c",
+      "integrity": "sha256-h1M6rM8r2Uk1bX6aZbdvYieuL9GF5IOVt5KjA+/JPHw=",
+      "url": "latest/pocind/audio_link.mpy"
+    },
+    {
+      "path": "/usr/pocind/authtoken.mpy",
+      "size": 696,
+      "sha256": "1f15fb447c5bebb404405764064a7a067c035af0495fc703beea4078d96b5c44",
+      "integrity": "sha256-HxX7RHxb67QEQFdkBkp6BnwDWvBJX8cDvupAeNlrXEQ=",
+      "url": "latest/pocind/authtoken.mpy"
+    },
+    {
+      "path": "/usr/pocind/channel_screen.mpy",
+      "size": 7122,
+      "sha256": "5a14948dd98051b8dfd8c463c9630cb4886c2af2e138b750d51e3733d1f65cd5",
+      "integrity": "sha256-WhSUjdmAUbjf2MRjyWMMtIhsKvLhOLdQ1R43M9H2XNU=",
+      "url": "latest/pocind/channel_screen.mpy"
+    },
+    {
+      "path": "/usr/pocind/config.mpy",
+      "size": 6974,
+      "sha256": "f0d814ae45d60a41b50eaad0f2972caa3f6c90a0de386bc6add94443e4984ddb",
+      "integrity": "sha256-8NgUrkXWCkG1DqrQ8pcsqj9skKDeOGvGrdlEQ+SYTds=",
+      "url": "latest/pocind/config.mpy"
+    },
+    {
+      "path": "/usr/pocind/display.mpy",
+      "size": 5443,
+      "sha256": "e8ea24de3c44d097604cc79edef7f0b40fc02e8951c65ce6194aedff663fa9b2",
+      "integrity": "sha256-6Ook3jxE0JdgTMee3vfwtA/ALolRxlzmGUrt/2Y/qbI=",
+      "url": "latest/pocind/display.mpy"
+    },
+    {
+      "path": "/usr/pocind/fota_screen.mpy",
+      "size": 2867,
+      "sha256": "56b0af5ac327712f822282c0393244ef05e649f4d59a3bcaa59e69380092866b",
+      "integrity": "sha256-VrCvWsMncS+CIoLAOTJE7wXmSfTVmjvKpZ5pOACShms=",
+      "url": "latest/pocind/fota_screen.mpy"
+    },
+    {
+      "path": "/usr/pocind/keys.mpy",
+      "size": 3074,
+      "sha256": "31619163acf01d4a1ecc1cd0ce91960bf71bd7e7590a284fd854d5a3a731a315",
+      "integrity": "sha256-MWGRY6zwHUoezBzQzpGWC/cb1+dZCihP2FTVo6cxoxU=",
+      "url": "latest/pocind/keys.mpy"
+    },
+    {
+      "path": "/usr/pocind/login.mpy",
+      "size": 9258,
+      "sha256": "4173f22a68d89f132fbd9def3c49ee40776c0204a50fa76da1f9fbc2656cb558",
+      "integrity": "sha256-QXPyKmjYnxMvvZ3vPEnuQHdsAgSlD6dtofn7wmVstVg=",
+      "url": "latest/pocind/login.mpy"
+    },
+    {
+      "path": "/usr/pocind/login_screen.mpy",
+      "size": 1809,
+      "sha256": "2e9646f0ba1c2b1483986aeb1474caedcda1941278f8cf04a34b76e862ba80fe",
+      "integrity": "sha256-LpZG8LocKxSDmGrrFHTK7c2hlBJ4+M8Eo0t26GK6gP4=",
+      "url": "latest/pocind/login_screen.mpy"
+    },
+    {
+      "path": "/usr/pocind/logo.raw",
+      "size": 3744,
+      "sha256": "bac742dffbd1a673ff9631e12ffe8c83440aadca5faef8c6859e475b72776bbb",
+      "integrity": "sha256-usdC3/vRpnP/ljHhL/6Mg0QKrcpfrvjGhZ5HW3J3a7s=",
+      "url": "latest/pocind/logo.raw"
+    },
+    {
+      "path": "/usr/pocind/main.mpy",
+      "size": 11283,
+      "sha256": "076379da62d7f4f61d4d6f91fef2033d94de9b1bb999b1674c2dedf1974cd337",
+      "integrity": "sha256-B2N52mLX9PYdTW+R/vIDPZTemxu5mbFnTC3t8ZdM0zc=",
+      "url": "latest/pocind/main.mpy"
+    },
+    {
+      "path": "/usr/pocind/mic_link.mpy",
+      "size": 4415,
+      "sha256": "7f3caa6074b0d65d9d0094e069c290ab52d67bc7356750018a4899acd81b7cb8",
+      "integrity": "sha256-fzyqYHSw1l2dAJTgacKQq1LWe8c1Z1ABikiZrNgbfLg=",
+      "url": "latest/pocind/mic_link.mpy"
+    },
+    {
+      "path": "/usr/pocind/plmn.mpy",
+      "size": 750,
+      "sha256": "2c12b433accca3fb0a81e64ff749b7199976297c2f504c632874921d49218337",
+      "integrity": "sha256-LBK0M6zMo/sKgeZP90m3GZl2KXwvUExjKHSSHUkhgzc=",
+      "url": "latest/pocind/plmn.mpy"
+    },
+    {
+      "path": "/usr/pocind/powerkey.mpy",
+      "size": 4573,
+      "sha256": "da90001bfcf6cf64fd10001fbb57df672486351c641a66df382e9feab623f59e",
+      "integrity": "sha256-2pAAG/z2z2T9EAAfu1ffZySGNRxkGmbfOC6f6rYj9Z4=",
+      "url": "latest/pocind/powerkey.mpy"
+    },
+    {
+      "path": "/usr/pocind/ptt_link.mpy",
+      "size": 39669,
+      "sha256": "8e9c7cd8085bdbc63a995eea9d470a198603c1bd3b34e015082815434f678bbc",
+      "integrity": "sha256-jpx82Ahb28Y6mV7qnUcKGYYDwb07NOAVCCgVQ09ni7w=",
+      "url": "latest/pocind/ptt_link.mpy"
+    },
+    {
+      "path": "/usr/pocind/settings.mpy",
+      "size": 4621,
+      "sha256": "ff76a4549753805c80e8ce3f619d5ff6fa246222b398e95396e673906722ad70",
+      "integrity": "sha256-/3akVJdTgFyA6M4/YZ1f9vokYiKzmOlTluZzkGcirXA=",
+      "url": "latest/pocind/settings.mpy"
+    },
+    {
+      "path": "/usr/pocind/sound.mpy",
+      "size": 3495,
+      "sha256": "88abeeddee00629281a76c88d70247f719a85665af6284e05c2798b18d5bc00d",
+      "integrity": "sha256-iKvu3e4AYpKBp2yI1wJH9xmoVmWvYoTgXCeYsY1bwA0=",
+      "url": "latest/pocind/sound.mpy"
+    },
+    {
+      "path": "/usr/pocind/splash.mpy",
+      "size": 488,
+      "sha256": "5e88b3472532c4045f0f32d211ea9bd9d9d77976bdd2db977b9eed9873a29772",
+      "integrity": "sha256-XoizRyUyxARfDzLSEeqb2dnXeXa90tuXe57tmHOil3I=",
+      "url": "latest/pocind/splash.mpy"
+    },
+    {
+      "path": "/usr/pocind/splash.raw",
+      "size": 40960,
+      "sha256": "d0843ff08e2129c1fa51bc3ef404e71946c31827090dfe8f024b720e80e86cce",
+      "integrity": "sha256-0IQ/8I4hKcH6Ubw+9ATnGUbDGCcJDf6PAktyDoDobM4=",
+      "url": "latest/pocind/splash.raw"
+    },
+    {
+      "path": "/usr/pocind/standby.mpy",
+      "size": 2907,
+      "sha256": "39411537db0c4cb644cc51e969fa3f1757280eae2b58a6c7104510a4f4331ca7",
+      "integrity": "sha256-OUEVN9sMTLZEzFHpafo/F1coDq4rWKbHEEUQpPQzHKc=",
+      "url": "latest/pocind/standby.mpy"
+    },
+    {
+      "path": "/usr/pocind/status.mpy",
+      "size": 6279,
+      "sha256": "83510d1c519eba2e6fe1f1105ffba4b7858003bc587f9365a4a4ffec1a883255",
+      "integrity": "sha256-g1ENHFGeui5v4fEQX/ukt4WAA7xYf5NlpKT/7BqIMlU=",
+      "url": "latest/pocind/status.mpy"
+    },
+    {
+      "path": "/usr/pocind/ui.mpy",
+      "size": 9367,
+      "sha256": "e010803d9dceede5c518a26f55b6ce06754f43fca0c75aa3d8f746ca2b4ffeb1",
+      "integrity": "sha256-4BCAPZ3O7eXFGKJvVbbOBnVPQ/ygx1qj2PdGyitP/rE=",
+      "url": "latest/pocind/ui.mpy"
+    },
+    {
+      "path": "/usr/pocind/updater.mpy",
+      "size": 12103,
+      "sha256": "fdd17bf962c8dd1f20df7e5dc41f303f2ca84e4d5cc482308cbaa727f0e7183a",
+      "integrity": "sha256-/dF7+WLI3R8g335dxB8wPyyoTk1cxIIwjLqnJ/DnGDo=",
+      "url": "latest/pocind/updater.mpy"
+    },
+    {
+      "path": "/usr/pocind/ws_client.mpy",
+      "size": 4132,
+      "sha256": "a15edc6c2402df5ad1f1f40737779dd3d368e6ed2a3d2a04436bdf5364e74ae8",
+      "integrity": "sha256-oV7cbCQC31rR8fQHN3ed09No5u0qPSoEQ2vfU2TnSug=",
+      "url": "latest/pocind/ws_client.mpy"
+    }
+  ]
+}
