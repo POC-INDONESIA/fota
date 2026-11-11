@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.12",
-  "total_size": 215556,
+  "version": "2026.11.13",
+  "total_size": 215678,
   "file_count": 29,
   "base_url": "https://raw.githubusercontent.com/POC-INDONESIA/fota/main/",
   "files": [
@@ -56,8 +56,8 @@
     {
       "path": "/usr/pocind/config.mpy",
       "size": 7613,
-      "sha256": "8af362a7a1b514d34099e60f196b525778f6b1c73c410e83795a9b5652838bec",
-      "integrity": "sha256-ivNip6G1FNNAmeYPGWtSV3j2scc8QQ6DeVqbVlKDi+w=",
+      "sha256": "9a62a6107ab569b8a529efd8162d338b1d5685e856bc21bcd8ac5129b97c0608",
+      "integrity": "sha256-mmKmEHq1abilKe/YFi0zix1WhehWvCG82KxRKbl8Bgg=",
       "url": "latest/pocind/config.mpy"
     },
     {
@@ -104,9 +104,9 @@
     },
     {
       "path": "/usr/pocind/main.mpy",
-      "size": 11625,
-      "sha256": "4c7ade76b318069818500d69f594dec50c0055a776faaac956771b5f6b3e2327",
-      "integrity": "sha256-THredrMYBpgYUA1p9ZTexQwAVad2+qrJVncbX2s+Iyc=",
+      "size": 11542,
+      "sha256": "5b27056346a6a16e8c80728376aa207c7c7be9bb1fdb81335fc8c88100ed0b74",
+      "integrity": "sha256-WycFY0amoW6MgHKDdqogfHx76bsf24EzX8jIgQDtC3Q=",
       "url": "latest/pocind/main.mpy"
     },
     {
@@ -139,9 +139,9 @@
     },
     {
       "path": "/usr/pocind/ptt_link.mpy",
-      "size": 43507,
-      "sha256": "d1f234c2bf7cda8330c567ace24a486e848ee23da7b864a5aa833176e85d832b",
-      "integrity": "sha256-0fI0wr982oMwxWes4kpIboSO4j2nuGSlqoMxduhdgys=",
+      "size": 43712,
+      "sha256": "9098d4e8061f79ebb0776be59ac774db9993916a40444e24639fc4873b32a2a9",
+      "integrity": "sha256-kJjU6AYfeeuwd2vlmsd025mTkWpARE4kY5/Ehzsyoqk=",
       "url": "latest/pocind/ptt_link.mpy"
     },
     {
