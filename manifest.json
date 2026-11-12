@@ -1,6 +1,6 @@
 {
-  "version": "2026.11.19",
-  "total_size": 219133,
+  "version": "2026.11.20",
+  "total_size": 219811,
   "file_count": 30,
   "base_url": "https://raw.githubusercontent.com/POC-INDONESIA/fota/main/",
   "files": [
@@ -34,9 +34,9 @@
     },
     {
       "path": "/usr/pocind/audio_link.mpy",
-      "size": 4511,
-      "sha256": "87533aaccf2bd949356d7e9a65b76f6227ae2fd185e48395b792a303efc93c7c",
-      "integrity": "sha256-h1M6rM8r2Uk1bX6aZbdvYieuL9GF5IOVt5KjA+/JPHw=",
+      "size": 4844,
+      "sha256": "df412cad1c470b2f187e4f37f2d3c305aec1a10eebc522a348ad180d5918c7a6",
+      "integrity": "sha256-30EsrRxHCy8Yfk838tPDBa7BoQ7rxSKjSK0YDVkYx6Y=",
       "url": "latest/pocind/audio_link.mpy"
     },
     {
@@ -55,9 +55,9 @@
     },
     {
       "path": "/usr/pocind/config.mpy",
-      "size": 7650,
-      "sha256": "09916957b979e12c56ca722de068d78ce4a51be2224bd215fcfdd95c89a76470",
-      "integrity": "sha256-CZFpV7l54SxWynIt4GjXjOSlG+IiS9IV/P3ZXImnZHA=",
+      "size": 7656,
+      "sha256": "bc1a608e2bc030242692a53949133bba5b0fc77d7ad4cd5f7c7c2d5f13e74b24",
+      "integrity": "sha256-vBpgjivAMCQmkqU5SRM7ulsPx3161M1ffHwtXxPnSyQ=",
       "url": "latest/pocind/config.mpy"
     },
     {
@@ -104,9 +104,9 @@
     },
     {
       "path": "/usr/pocind/main.mpy",
-      "size": 11855,
-      "sha256": "fa651aada3fa04a2297fe08610e5a58b53a10ad40f3e43b5e1cf688cc2a36c54",
-      "integrity": "sha256-+mUaraP6BKIpf+CGEOWli1OhCtQPPkO14c9ojMKjbFQ=",
+      "size": 11873,
+      "sha256": "7cea2cf8238e5437c0af43b58c0ca79d4729144671e6802c63c5e35fc2b7afa4",
+      "integrity": "sha256-fOos+COOVDfAr0O1jAynnUcpFEZx5oAsY8XjX8K3r6Q=",
       "url": "latest/pocind/main.mpy"
     },
     {
@@ -139,9 +139,9 @@
     },
     {
       "path": "/usr/pocind/ptt_link.mpy",
-      "size": 45058,
-      "sha256": "595fc11bffc45d738de45190c6d6303c8b7de11f10a23965a714bc642e2224fe",
-      "integrity": "sha256-WV/BG//EXXON5FGQxtYwPIt94R8QojllpxS8ZC4iJP4=",
+      "size": 45379,
+      "sha256": "8a8a24ba57857a5a7b31fd5c46a13d0b04f65aa26ccfc29e1ecdeff9a19855ca",
+      "integrity": "sha256-iookuleFelp7Mf1cRqE9CwT2WqJsz8KeHs3v+aGYVco=",
       "url": "latest/pocind/ptt_link.mpy"
     },
     {
